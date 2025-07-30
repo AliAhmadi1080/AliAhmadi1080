@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TODO Projects<br>🌱 I’m currently learning React <br>⚡ Fun fact: I am mail :>
+🔭 I’m currently working on my library site Projects<br>🌱 I’m currently learning React <br>⚡ Fun fact: I am mail :>
 
 
 ## 🌐 Socials:
